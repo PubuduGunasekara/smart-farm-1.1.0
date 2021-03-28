@@ -22,16 +22,16 @@
         "backgroundColor": "#FFFFFF"
       },
       "useNextNotificationsApi": true,
-      "package": "com.companyName.appName",
+      "package": "com.pubudu97.smart_farm",
       "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "",
+    "description": "https://github.com/PubuduPraneeth/smart-farm-1.1.0",
     "githubUrl": "put your git repo link",
     "ios": {
-      "bundleIdentifier": "com.pubudu97.smart-farm"
+      "bundleIdentifier": "com.pubudu97.smart_farm"
     }
   }
 }
